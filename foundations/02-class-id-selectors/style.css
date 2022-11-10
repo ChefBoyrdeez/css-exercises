@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+}
+
+p {
+    background-color: lightcoral; 
+}
+.big {
+    font-size: 36px;
+}
+#two {
+    color: blue;
+    font-size: 48px;
+}
+#four {
+    font-size: 36px;
+    font-weight: bold;
+    background-color: mediumseagreen;
+}
